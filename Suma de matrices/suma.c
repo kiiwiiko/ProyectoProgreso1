@@ -26,7 +26,6 @@ int main()
             printf("Matriz B Ingresar el numero %d%d : ", i+1, j+1);
             scanf("%d", &n);
             B[i][j]=n;
-
         }
     }
     int C[filas][columnas];
